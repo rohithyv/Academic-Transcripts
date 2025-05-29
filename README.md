@@ -8,7 +8,7 @@ This repository contains official transcripts and credential evaluations from my
 - **Program**: Master of Science in Computer Science
 - **Institution**: The George Washington University, Washington, D.C.
 - **Duration**: Aug 2023 – May 2026 (Expected)
-- **Transcript**: [Transcript_GWU_MSc_CS_May2026.pdf](./Transcript_GWU_MSc_CS_May2026.pdf)
+- **Transcript**: [Transcript_GWU_MSc_CS_May2026.pdf]([./Transcript_GWU_MSc_CS_May2026.pdf](https://github.com/rohithyv/Academic-Transcripts/blob/main/Transcript_BMSCE_BE_CS_July2021.pdf))
 
 ---
 
